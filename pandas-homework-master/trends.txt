@@ -1,0 +1,5 @@
+Three Observable Trends in Heroes of Pymoli
+
+- Despite being the majority of the player and purchase count, men had the fewest average purchase price amongst the other genders.
+- The 20-24 year old age group contributes almost 45% of player count and similar percentage of purchase count.
+- Adults age 35-39 on average spend more than any of the other age groups with an average purchase of $3.60.
